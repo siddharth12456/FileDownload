@@ -62,10 +62,11 @@ class FileDownLoad(object):
         """
         return (os.path.getsize(self.destination + self.filename)/1000)/self.downloadTime
 
+    
     @property
     def token(self):
         """
-        :return: JWT  token for authentication
+        :return: JWT
         """
         while time.clock() - self.tokentime < 10:
             try:
