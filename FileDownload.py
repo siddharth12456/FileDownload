@@ -44,6 +44,7 @@ class FileDownLoad(object):
             logging.error("File Cant be deleted .")
             raise Exception
 
+
     @property
     def downloadTime(self):
         """
