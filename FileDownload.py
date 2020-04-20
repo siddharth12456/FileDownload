@@ -39,6 +39,7 @@ class FileDownLoad(object):
             if os.path.exists(self.destination+self.filename):
                 os.remove(self.destination + self.filename)
                 #logging.info("existing file deleted .")
+                
         except Exception:
             logging.error("File Cant be deleted .")
             raise Exception
