@@ -34,6 +34,7 @@ class FileDownLoad(object):
         self.filestartime = None
         self.tokentime = time.clock()
 
+
     def deleteFile(self):
         try:
             if os.path.exists(self.destination+self.filename):
