@@ -58,6 +58,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FileDownload.py" />
       <option name="PARAMETERS" value="--config &quot;D:\CESPT\src\projects\vrdu3\config\ConfigEnv.xml&quot; --config &quot;D:\CESPT\src\projects\vrdu3\config\ConfigEnv_FRL20H5G.xml&quot; --config &quot;D:\lastest_code\ebt-env-adc410-daimler-tc3xx\software\VERSION\Default\ConfigFiles.xml&quot; --config &quot;D:\lastest_code\ebt-env-adc410-daimler-tc3xx\software\VERSION\TestStubs\ConfigFiles.xml&quot; --config &quot;D:\CESPT\src\projects\vrdu3\config\KnownFailList.xml&quot; --config &quot;D:\CESPT\src\projects\vrdu3\config\ConfigTest_BuildAcceptance.xml&quot;" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -79,6 +80,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="D:/CESPT/src/runCESPT.py" />
       <option name="PARAMETERS" value="--config &quot;D:\CESPT\src\projects\vrdu3\config\ConfigEnv.xml&quot; --config &quot;D:\CESPT\src\projects\vrdu3\config\ConfigEnv_FRL20H5G.xml&quot; --config &quot;D:\lastest_code\ebt-env-adc410-daimler-tc3xx\software\VERSION\Default\ConfigFiles.xml&quot; --config &quot;D:\lastest_code\ebt-env-adc410-daimler-tc3xx\software\VERSION\TestStubs\ConfigFiles.xml&quot; --config &quot;D:\CESPT\src\projects\vrdu3\config\KnownFailList.xml&quot; --config &quot;D:\CESPT\src\projects\vrdu3\config\ConfigTest_BuildAcceptance.xml&quot;" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -97,6 +99,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;FileDownLoadTest.MyTest.test_downloadspeed&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
@@ -111,6 +114,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;FileDownLoadTest.MyTest.test_fileDowndThread&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
@@ -125,6 +129,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;FileDownLoadTest.MyTest.test_timeoutSpecifiedneagtive&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
@@ -139,6 +144,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/FileDownLoadTest.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
