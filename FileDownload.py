@@ -46,7 +46,6 @@ class FileDownLoad(object):
             raise Exception
         
 
-
     @property
     def downloadTime(self):
         """
